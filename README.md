@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Azamjon</h1>
-<h3 align="center">A Passionate Android Developer from Uzbekistan</h3>
+<h3 align="center">Mobile Developer — Flutter & Dart (Android/Kotlin background)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cik232&label=Profile%20views&color=0e75b6&style=plastic" alt="cik232" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cik232" alt="cik232" /></a> </p>
 
-- 🔭 I’m currently working on **PhotoMath**
+-   I'm currently focused on **Flutter & Dart** development
 
-- 🌱 I’m currently learning **Java**
+-   I'm currently deepening my **Flutter/Dart** skills
 
-- 👯 I’m looking to collaborate on **Massgram**
+-   I'm open to collaborating on **Flutter** projects
 
-- 🤝 I’m looking for help with **Massgram**
+-   I'm looking to connect with other Flutter/mobile developers
 
 - 👨‍💻 All of my projects are available at [https://github.com/cik232?tab=repositories](https://github.com/cik232?tab=repositories)
 
-- 💬 Ask me about **Java, Kotlin**
+-   Ask me about **Flutter, Dart, Kotlin, Android**
 
 - 📫 How to reach me **azamjon23202@gmail.com**
 
